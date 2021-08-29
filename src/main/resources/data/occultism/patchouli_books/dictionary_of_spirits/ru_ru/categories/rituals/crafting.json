@@ -1,6 +1,6 @@
 {
-  "name": "Binding Rituals",
-  "description": "Binding rituals infuse spirits into items, where their powers are used for one specific purpose. The created items can act like simple empowering enchantments, or fulfill complex tasks to aid the summoner.",
+  "name": "Ритуалы привязки",
+  "description": "Ритуалы привязки вселяют духов в предметы, где их силы используются в определённом назначении. Созданные предметы играют роль как простые чары, так и выполнять сложные задачи для помощи призывателя.",
   "icon": "occultism:textures/gui/book/infusion.png",
   "parent": "rituals",
   "sortnum": 3

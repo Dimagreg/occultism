@@ -1,17 +1,17 @@
 {
-  "name": "Divination",
+  "name": "Гадание",
   "icon": "occultism:divination_rod",
   "category": "getting_started",
   "sortnum": 3,
   "pages": [
     {
       "type": "text",
-      "text": "Чтобы упростить начало, материалы, полученные с помощью гадания, теперь также имеют рецепты крафта. $(bold)If you want the full experience, skip the following recipe pages and move on to the divination instructions.$()"
+      "text": "Чтобы упростить начало, материалы, полученные с помощью гадания, теперь также имеют рецепты крафта. $(bold)Для полнеценного опыта, пропустите данные страницы и перейдите к инструкциям гадания.$()"
     },
     {
       "type": "spotlight",
       "item": "occultism:otherstone",
-      "text": "Чтобы получить Другой камень, очистите $(item)Andesite$() (Андезит) в $(thing)Spirit Fire$() (духовном огне)."
+      "text": "Чтобы получить Потусторонний Камень, очистите $(item)Andesite$() (Андезит) в $(thing)Spirit Fire$() (духовном огне)."
     },
     {
       "type": "spotlight",

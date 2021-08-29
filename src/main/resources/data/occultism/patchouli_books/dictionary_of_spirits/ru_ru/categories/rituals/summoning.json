@@ -1,6 +1,6 @@
 {
-  "name": "Summon Rituals",
-  "description": "Summon rituals force spirits to enter this world in their chosen shape, leading to little restrictions on their power, but expose them to essence decay. Summoned spirits range from trade spirits that trade and convert items, to slave-like helpers for manual labour.",
+  "name": "Ритуал призыва",
+  "description": "Ритуалы призыва заставляет духов проникнуть в этот мир в выбранном виде, имея некоторые ограничения в их силе и подвергая к разложению. Вызываемые духи могут быть как продавцы предметов, так и рабы для ручной работы.",
   "icon": "occultism:textures/gui/book/summoning.png",
   "parent": "rituals",
   "sortnum": 1
